@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi I'm Shriya!
 
-<!--
-**nchshri/nchshri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Shriya and I’m a Computer Science student with a certification in Applications in Data Science with a Web Development focus. I’m actively seeking software engineering and product-focused roles where I can contribute at scale.
 
-Here are some ideas to get you started:
+Reach out at  **snichena@purdue.edu**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Launched Websites
+ ★ [Machine Learning @ Purdue Official Website]{https://mlpurdue.com/}
+ ★ [Catapult Hacks Website]{https://catapulthack.com/}
+
+### Projects
+ ★ [PointPath]{https://github.com/AndresL230/PointPath}
+ ★ [Plate.JS Text Editor]{https://github.com/nchshri/civic-proj}
+ ★ [Click & Cart]{https://github.com/zhao1448/CS180-MarketPlace}
+ ★ [Custom Desktop iPod Widget]{https://github.com/nchshri/ipod-desktop-widget}
