@@ -1,6 +1,6 @@
 ## Shriya Nichenametla
 
-Hi, I'm Shriya and I’m a Computer Science student with a certification in Applications in Data Science with a Web Development focus. I’m actively seeking software engineering and product-focused roles where I can contribute at scale.
+Hi, I'm Shriya and I’m a Computer Science student with a certification in Applications in Data Science with a Web Development focus. I like building and creating :D here are some things I've worked on!
 
 Reach out at  **snichena@purdue.edu**!
 
